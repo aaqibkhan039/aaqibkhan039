@@ -1,6 +1,10 @@
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/profile-banner-light.svg">
+  <img alt="Aaqib Khan — Mechanical Engineer × Software Builder" src="./assets/profile-banner-light.svg">
+</picture>
 
-# Aaqib Khan
+<div align="center">
 
 ### Mechanical Engineer × Software Builder
 
@@ -11,7 +15,9 @@ I work at the intersection of **physical systems and digital systems**: maintain
 <p>
   <a href="https://aaqibkhan.me"><strong>Portfolio</strong></a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/aaqibkhan039"><strong>GitHub</strong></a>
+  <a href="https://inventory.aaqibkhan.me"><strong>Prism Inventory</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/aaqibkhan039?tab=repositories"><strong>Repositories</strong></a>
 </p>
 
 </div>
@@ -28,17 +34,18 @@ I work at the intersection of **physical systems and digital systems**: maintain
 | 🛠️ **Infrastructure** | Docker, Linux, GitHub, Cloudflare |
 | 🧠 **Current direction** | Engineering software, automation, system design and AI-assisted development |
 
-> Most of my active product repositories are private while they are under development. This profile focuses on the systems, architecture and problems I am working on rather than vanity metrics.
+> Most active product repositories are private while under development. I use this profile to show the systems, architecture and problems I am working on without exposing private code or repository details.
 
 ---
 
-## Current builds
+## Featured builds
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### ◈ Prism Inventory
+**Active development · Private code**
 
 An independent inventory-management system shaped by real maintenance and spare-parts workflows.
 
@@ -51,10 +58,15 @@ An independent inventory-management system shaped by real maintenance and spare-
 
 <sub><strong>Domain:</strong> Inventory · Asset Management · Maintenance Operations</sub>
 
+<br><br>
+
+<a href="https://inventory.aaqibkhan.me"><strong>Open application →</strong></a>
+
 </td>
 <td width="50%" valign="top">
 
 ### ◈ PrismOS
+**In development · Private**
 
 A private modular operating system for personal information, workflows and connected services.
 
@@ -74,18 +86,24 @@ A private modular operating system for personal information, workflows and conne
 <td width="50%" valign="top">
 
 ### ◈ aaqibkhan.me
+**In development · Private**
 
-My engineering and systems portfolio, designed to connect two sides of my work:
+My engineering and systems portfolio, connecting two sides of my work:
 
 **Engineering** → hydropower experience and technical case studies  
 **Systems** → software products, architecture and experiments
 
 <sub><strong>Stack:</strong> Next.js · Payload CMS · PostgreSQL · Docker</sub>
 
+<br><br>
+
+<a href="https://aaqibkhan.me"><strong>Open portfolio →</strong></a>
+
 </td>
 <td width="50%" valign="top">
 
 ### ◈ AK Store
+**In development · Private**
 
 A Flutter-based e-commerce application covering authentication, catalog, accounts, media and commerce workflows.
 
@@ -99,7 +117,7 @@ A Flutter-based e-commerce application covering authentication, catalog, account
 
 ## Engineering background
 
-My core professional domain is **utility-scale hydropower**, where software-style systems thinking maps surprisingly well to physical assets: interfaces matter, failure modes matter, observability matters, and good architecture reduces operational risk.
+My core professional domain is **utility-scale hydropower**. The same systems thinking transfers naturally into software: interfaces matter, failure modes matter, observability matters, and good architecture reduces operational risk.
 
 ```text
 Hydropower Mechanical Systems
@@ -133,6 +151,26 @@ Hydropower Mechanical Systems
 
 **Architecture & delivery**  
 `System Design` · `API Design` · `Database Design` · `Docker` · `Linux` · `GitHub`
+
+---
+
+## Contribution activity
+
+My public GitHub profile can include **public contributions plus anonymized private contribution activity** when GitHub's private-contribution setting is enabled. Private repository names, organization names and commit details remain hidden.
+
+<div align="center">
+
+<a href="https://github.com/aaqibkhan039"><strong>View full contribution calendar on my GitHub profile ↓</strong></a>
+
+</div>
+
+<!--
+Private-inclusive summary cards are prepared through:
+.github/workflows/profile-summary-cards.yml
+
+After SUMMARY_GITHUB_TOKEN is configured and the workflow generates cards,
+a profile-details card can be inserted here without exposing private repository names.
+-->
 
 ---
 
