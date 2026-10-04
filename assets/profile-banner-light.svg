@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260">
+<defs><linearGradient id="b" x1="0" x2="1"><stop stop-color="#f8fafc"/><stop offset="1" stop-color="#eef6ff"/></linearGradient><linearGradient id="a" x1="0" x2="1"><stop stop-color="#2563eb"/><stop offset="1" stop-color="#0f766e"/></linearGradient></defs>
+<rect width="1200" height="260" rx="24" fill="url(#b)"/><rect x="1" y="1" width="1198" height="258" rx="23" fill="none" stroke="#dbe4ee"/>
+<rect x="52" y="42" width="5" height="176" rx="2.5" fill="url(#a)"/>
+<text x="86" y="92" font-family="Segoe UI,Arial,sans-serif" font-size="44" font-weight="700" fill="#0f172a">Aaqib Khan</text>
+<text x="86" y="132" font-family="Segoe UI,Arial,sans-serif" font-size="22" font-weight="600" fill="#334155">Mechanical Engineer × Software Builder</text>
+<text x="86" y="170" font-family="Segoe UI,Arial,sans-serif" font-size="17" fill="#475569">Hydropower · Industrial Systems · Software Architecture · AI-assisted Development</text>
+<text x="86" y="204" font-family="Consolas,monospace" font-size="14" fill="#64748b">physical systems → digital systems → useful tools</text>
+<g transform="translate(950 130)"><circle r="70" fill="none" stroke="#bfdbfe" stroke-width="2"/><circle r="46" fill="none" stroke="#99f6e4" stroke-width="2"/><circle r="18" fill="url(#a)"/>
+<g stroke="#2563eb" stroke-width="5" stroke-linecap="round"><line x1="0" y1="-65" x2="0" y2="-30"/><line x1="65" y1="0" x2="30" y2="0"/><line x1="0" y1="65" x2="0" y2="30"/><line x1="-65" y1="0" x2="-30" y2="0"/><line x1="46" y1="-46" x2="22" y2="-22"/><line x1="46" y1="46" x2="22" y2="22"/><line x1="-46" y1="46" x2="-22" y2="22"/><line x1="-46" y1="-46" x2="-22" y2="-22"/></g></g>
+</svg>
