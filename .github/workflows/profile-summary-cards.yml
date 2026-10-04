@@ -1,0 +1,32 @@
+name: Profile Summary Cards
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 1 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+      SUMMARY_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate profile summary cards
+        if: env.SUMMARY_TOKEN != ''
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: Explain missing setup
+        if: env.SUMMARY_TOKEN == ''
+        run: |
+          echo "SUMMARY_GITHUB_TOKEN is not configured."
+          echo "Add a fine-grained read-only PAT as this repository secret to generate private-inclusive summary cards."
