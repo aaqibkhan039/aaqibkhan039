@@ -1,113 +1,53 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-banner-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/profile-banner-light.svg">
-  <img alt="Aaqib Khan — Mechanical Engineer × Software Builder" src="./assets/profile-banner-light.svg">
+  <img alt="Aaqib Khan — Mechanical Engineer and Software Builder" src="./assets/profile-banner-light.svg">
 </picture>
 
 <div align="center">
 
-### Mechanical Engineer × Software Builder
+**Deputy Director, Mechanical & Hydraulics · Hydropower · Software Systems**
 
-**Hydropower · Industrial Systems · Software Architecture · AI-assisted Development**
+I work on utility-scale mechanical systems professionally and build software for operations, productivity and real-world workflows.
 
-I work at the intersection of **physical systems and digital systems**: maintaining complex hydropower equipment professionally while building software products for operations, productivity and everyday problems.
-
-<p>
-  <a href="https://aaqibkhan.me"><strong>Portfolio</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://inventory.aaqibkhan.me"><strong>Prism Inventory</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/aaqibkhan039?tab=repositories"><strong>Repositories</strong></a>
-</p>
+[**Portfolio**](https://aaqibkhan.me) &nbsp;·&nbsp;
+[**Prism Inventory**](https://inventory.aaqibkhan.me) &nbsp;·&nbsp;
+[**Repositories**](https://github.com/aaqibkhan039?tab=repositories)
 
 </div>
 
 ---
 
-## At a glance
-
-| | |
-|---|---|
-| ⚙️ **Engineering** | Hydropower, mechanical maintenance, hydraulic systems, rotating equipment, asset reliability |
-| 🧩 **Building** | Prism Inventory, PrismOS, AK Store and aaqibkhan.me |
-| 💻 **Software** | Flutter/Dart, Python/FastAPI, PostgreSQL, Firebase, Next.js |
-| 🛠️ **Infrastructure** | Docker, Linux, GitHub, Cloudflare |
-| 🧠 **Current direction** | Engineering software, automation, system design and AI-assisted development |
-
-> Most active product repositories are private while under development. I use this profile to show the systems, architecture and problems I am working on without exposing private code or repository details.
-
----
-
-## Featured builds
+## Profile
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ◈ Prism Inventory
-**Active development · Private code**
+### Engineering
 
-An independent inventory-management system shaped by real maintenance and spare-parts workflows.
+**Domain**  
+Utility-scale hydropower
 
-**Focus**
-- materials and stock
-- receiving and requests
-- transfers and pricing
-- audit history
-- operational accountability
+**Focus**  
+Mechanical maintenance · Hydraulic systems · Rotating equipment · Reliability · Maintenance planning · Industrial safety
 
-<sub><strong>Domain:</strong> Inventory · Asset Management · Maintenance Operations</sub>
-
-<br><br>
-
-<a href="https://inventory.aaqibkhan.me"><strong>Open application →</strong></a>
+**Approach**  
+Failure modes · Root-cause thinking · Maintainability · Operational risk
 
 </td>
 <td width="50%" valign="top">
 
-### ◈ PrismOS
-**In development · Private**
+### Software
 
-A private modular operating system for personal information, workflows and connected services.
+**Products**  
+Operational tools · Personal systems · Web and mobile applications
 
-**Current domains**
-- finance
-- tasks and calendar
-- projects and people
-- assets and subscriptions
-- controlled external integrations
+**Focus**  
+System design · APIs · Data models · Automation · AI-assisted development
 
-<sub><strong>Stack:</strong> Flutter · Riverpod · FastAPI · PostgreSQL</sub>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### ◈ aaqibkhan.me
-**In development · Private**
-
-My engineering and systems portfolio, connecting two sides of my work:
-
-**Engineering** → hydropower experience and technical case studies  
-**Systems** → software products, architecture and experiments
-
-<sub><strong>Stack:</strong> Next.js · Payload CMS · PostgreSQL · Docker</sub>
-
-<br><br>
-
-<a href="https://aaqibkhan.me"><strong>Open portfolio →</strong></a>
-
-</td>
-<td width="50%" valign="top">
-
-### ◈ AK Store
-**In development · Private**
-
-A Flutter-based e-commerce application covering authentication, catalog, accounts, media and commerce workflows.
-
-<sub><strong>Stack:</strong> Flutter · Dart · Firebase · Firestore · GetX</sub>
+**Approach**  
+Clear boundaries · Maintainable architecture · Practical workflows
 
 </td>
 </tr>
@@ -115,90 +55,100 @@ A Flutter-based e-commerce application covering authentication, catalog, account
 
 ---
 
-## Engineering background
+## Selected projects
 
-My core professional domain is **utility-scale hydropower**. The same systems thinking transfers naturally into software: interfaces matter, failure modes matter, observability matters, and good architecture reduces operational risk.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-```text
-Hydropower Mechanical Systems
-├── Francis turbines
-├── Generators & rotating equipment
-├── Hydraulic systems
-├── Mechanical maintenance
-├── Preventive & corrective maintenance
-├── Troubleshooting & failure analysis
-├── Asset reliability
-├── Maintenance planning
-└── Industrial safety
-```
+### Prism Inventory
+<sub>ACTIVE · PRIVATE SOURCE</sub>
+
+Inventory and spare-parts management built around maintenance operations, including stock, receiving, requests, transfers, pricing and audit history.
+
+**Domain:** Inventory · Asset management · Maintenance
+
+[**Open application →**](https://inventory.aaqibkhan.me)
+
+</td>
+<td width="50%" valign="top">
+
+### PrismOS
+<sub>IN DEVELOPMENT · PRIVATE</sub>
+
+An owner-only personal operating system for finance, tasks, calendar, projects, people, assets and controlled external integrations.
+
+**Stack:** Flutter · Riverpod · FastAPI · PostgreSQL
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### aaqibkhan.me
+<sub>IN DEVELOPMENT · PRIVATE SOURCE</sub>
+
+An editorial portfolio connecting hydropower engineering experience, technical case studies and software systems work.
+
+**Stack:** Next.js · Payload CMS · PostgreSQL · Docker
+
+[**Open portfolio →**](https://aaqibkhan.me)
+
+</td>
+<td width="50%" valign="top">
+
+### AK Store
+<sub>IN DEVELOPMENT · PRIVATE</sub>
+
+A Flutter e-commerce application covering authentication, catalog, accounts, media and commerce workflows.
+
+**Stack:** Flutter · Dart · Firebase · Firestore · GetX
+
+</td>
+</tr>
+</table>
+
+---
+
+## Engineering focus
+
+| Systems | Practice |
+|---|---|
+| Francis turbines | Preventive and corrective maintenance |
+| Generators and rotating equipment | Troubleshooting and failure analysis |
+| Hydraulic systems | Reliability and maintenance planning |
+| Mechanical auxiliaries | Safe execution and operational coordination |
 
 ---
 
 ## Technology
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,python,fastapi,postgres,firebase,nextjs,docker,linux,github,cloudflare&perline=11" alt="Technology stack" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,python,fastapi,postgres,firebase,nextjs,docker,linux,github,cloudflare&perline=11" alt="Flutter, Dart, Python, FastAPI, PostgreSQL, Firebase, Next.js, Docker, Linux, GitHub and Cloudflare" />
 </p>
 
-**Applications**  
-`Flutter` · `Dart` · `Next.js`
-
-**Backend & APIs**  
-`Python` · `FastAPI` · `REST APIs`
-
-**Data**  
-`PostgreSQL` · `SQLAlchemy` · `Alembic` · `Firebase` · `Firestore`
-
-**Architecture & delivery**  
-`System Design` · `API Design` · `Database Design` · `Docker` · `Linux` · `GitHub`
+| Layer | Tools |
+|---|---|
+| Applications | Flutter · Dart · Next.js |
+| Backend | Python · FastAPI · REST APIs |
+| Data | PostgreSQL · SQLAlchemy · Alembic · Firebase · Firestore |
+| Delivery | Docker · Linux · GitHub · Cloudflare |
 
 ---
 
-## Contribution activity
+## Engineering × Software
 
-My public GitHub profile can include **public contributions plus anonymized private contribution activity** when GitHub's private-contribution setting is enabled. Private repository names, organization names and commit details remain hidden.
+Mechanical engineering trained me to think in **systems, constraints, failure modes, interfaces, maintenance and reliability**. Software gives me another medium for applying the same thinking.
+
+Most of what I build follows that intersection: practical systems for organizing, automating and improving real work.
 
 <div align="center">
 
-<a href="https://github.com/aaqibkhan039"><strong>View full contribution calendar on my GitHub profile ↓</strong></a>
+<br>
 
-</div>
+**Build useful systems. Understand how they work.**
 
-<!--
-Private-inclusive summary cards are prepared through:
-.github/workflows/profile-summary-cards.yml
-
-After SUMMARY_GITHUB_TOKEN is configured and the workflow generates cards,
-a profile-details card can be inserted here without exposing private repository names.
--->
-
----
-
-## Engineering → Software
-
-I do not treat engineering and software as unrelated careers.
-
-Mechanical engineering trained me to think in terms of **systems, constraints, failure modes, interfaces, maintenance and reliability**. Software gives me another medium for applying the same thinking.
-
-That is why most of what I build tends to be operational rather than purely experimental: inventory, personal systems, commerce, automation and tools that organize real work.
-
----
-
-## Currently exploring
-
-- software for engineering and maintenance workflows
-- industrial inventory and asset-management systems
-- AI-assisted software development
-- personal information and workflow systems
-- MEP / HVAC engineering
-- automation of repetitive engineering and operational work
-
----
-
-<div align="center">
-
-### Build useful systems. Understand how they work.
-
-<a href="https://aaqibkhan.me">aaqibkhan.me</a>
+[aaqibkhan.me](https://aaqibkhan.me)
 
 </div>
