@@ -6,7 +6,7 @@
 
 <div align="center">
 
-I work on utility-scale hydropower systems and build software for operations, productivity and real-world workflows.
+Mechanical engineering is my core domain. Software is another engineering medium I use to model, automate and improve real systems.
 
 [**Portfolio**](https://aaqibkhan.me) &nbsp;·&nbsp;
 [**Prism Inventory**](https://inventory.aaqibkhan.me)
@@ -15,54 +15,34 @@ I work on utility-scale hydropower systems and build software for operations, pr
 
 ---
 
-## Profile
+## What I engineer
 
-<table>
-<tr>
-<td width="50%" valign="top">
+I work in **utility-scale hydropower**, currently in mechanical and hydraulic systems leadership.
 
-### Engineering
-
-**Domain**  
-Utility-scale hydropower
-
-**Focus**  
-Mechanical maintenance · Hydraulic systems · Rotating equipment · Reliability
-
-**Method**  
-Failure modes · Root-cause thinking · Maintainability · Operational risk
-
-</td>
-<td width="50%" valign="top">
-
-### Software
-
-**Domain**  
-Operational and personal software systems
-
-**Focus**  
-Architecture · APIs · Data models · Automation · AI-assisted development
-
-**Method**  
-Clear boundaries · Maintainable systems · Practical workflows
-
-</td>
-</tr>
-</table>
-
----
-
-## Now
-
-| Track | Current focus |
+| Systems | Engineering practice |
 |---|---|
-| **Engineering** | Hydropower mechanical maintenance, reliability and technical leadership |
-| **Building** | Prism Inventory, PrismOS and aaqibkhan.me |
-| **Learning** | System architecture, AI-assisted development and MEP/HVAC |
+| Francis turbines | Preventive and corrective maintenance |
+| Generators & rotating equipment | Troubleshooting and failure analysis |
+| Hydraulic systems | Reliability and maintenance planning |
+| Mechanical auxiliaries | Safe execution and operational coordination |
+| Maintenance systems | Planning, traceability and continuous improvement |
+
+My engineering approach is grounded in **failure modes, root-cause thinking, maintainability, reliability and operational risk**.
 
 ---
 
-## Selected projects
+## What I build
+
+I design software around practical workflows rather than technology for its own sake.
+
+- **Maintenance & inventory systems** for materials, stock, requests, transfers and traceability
+- **Personal operating systems** for finance, tasks, calendar, projects, people and assets
+- **Web & mobile products** for commerce, operations and everyday use
+- **Automation & AI-assisted workflows** that reduce repetitive work and improve decision support
+
+---
+
+## Selected systems
 
 <table>
 <tr>
@@ -118,18 +98,56 @@ A Flutter e-commerce application for authentication, catalog, accounts, media an
 
 ---
 
-## Engineering focus
+## How I think
 
-| Systems | Practice |
-|---|---|
-| Francis turbines | Preventive and corrective maintenance |
-| Generators and rotating equipment | Troubleshooting and failure analysis |
-| Hydraulic systems | Reliability and maintenance planning |
-| Mechanical auxiliaries | Safe execution and operational coordination |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Physical systems
+
+```text
+Inspect
+  ↓
+Diagnose
+  ↓
+Plan
+  ↓
+Execute
+  ↓
+Verify
+  ↓
+Improve
+```
+
+</td>
+<td width="50%" valign="top">
+
+### Digital systems
+
+```text
+Problem
+  ↓
+Model
+  ↓
+Architect
+  ↓
+Build
+  ↓
+Validate
+  ↓
+Iterate
+```
+
+</td>
+</tr>
+</table>
+
+The medium changes, but the principles do not: **clear interfaces, traceability, maintainability, reliability and feedback from real operation**.
 
 ---
 
-## Technology
+## Tooling
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,python,fastapi,postgres,firebase,nextjs,docker,linux,github,cloudflare&perline=11" alt="Flutter, Dart, Python, FastAPI, PostgreSQL, Firebase, Next.js, Docker, Linux, GitHub and Cloudflare" />
@@ -141,18 +159,24 @@ A Flutter e-commerce application for authentication, catalog, accounts, media an
 
 ---
 
-## Engineering × Software
+## Now
 
-Mechanical engineering trained me to think in **systems, constraints, failure modes, interfaces, maintenance and reliability**. Software gives me another medium for applying the same thinking.
+**Engineering** → hydropower mechanical maintenance, reliability and technical leadership  
+**Building** → Prism Inventory, PrismOS and aaqibkhan.me  
+**Learning** → system architecture, AI-assisted development and MEP/HVAC
 
-Most of what I build follows that intersection: practical systems for organizing, automating and improving real work.
+---
+
+## Engineering philosophy
+
+> Build systems that can be understood, operated, maintained and improved.
+
+Whether the system is mechanical or digital, I value **clarity, traceability, maintainability and usefulness in real operation**.
 
 <div align="center">
 
 <br>
 
-**Build useful systems. Understand how they work.**
-
-[aaqibkhan.me](https://aaqibkhan.me)
+[**aaqibkhan.me**](https://aaqibkhan.me)
 
 </div>
