@@ -100,48 +100,11 @@ A Flutter e-commerce application for authentication, catalog, accounts, media an
 
 ## How I think
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Physical systems
-
-```text
-Inspect
-  ↓
-Diagnose
-  ↓
-Plan
-  ↓
-Execute
-  ↓
-Verify
-  ↓
-Improve
-```
-
-</td>
-<td width="50%" valign="top">
-
-### Digital systems
-
-```text
-Problem
-  ↓
-Model
-  ↓
-Architect
-  ↓
-Build
-  ↓
-Validate
-  ↓
-Iterate
-```
-
-</td>
-</tr>
-</table>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/engineering-workflow-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/engineering-workflow-light.svg">
+  <img alt="Physical workflow: Inspect, Diagnose, Plan, Execute, Verify, Improve. Digital workflow: Problem, Model, Architect, Build, Validate, Iterate." src="./assets/engineering-workflow-light.svg">
+</picture>
 
 The medium changes, but the principles do not: **clear interfaces, traceability, maintainability, reliability and feedback from real operation**.
 
