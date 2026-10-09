@@ -1,18 +1,15 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-banner-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/profile-banner-light.svg">
-  <img alt="Aaqib Khan — Mechanical Engineer and Software Builder" src="./assets/profile-banner-light.svg">
+  <img alt="Aaqib Khan — Hydropower Engineering and Software Systems" src="./assets/profile-banner-light.svg">
 </picture>
 
 <div align="center">
 
-**Deputy Director, Mechanical & Hydraulics · Hydropower · Software Systems**
-
-I work on utility-scale mechanical systems professionally and build software for operations, productivity and real-world workflows.
+I work on utility-scale hydropower systems and build software for operations, productivity and real-world workflows.
 
 [**Portfolio**](https://aaqibkhan.me) &nbsp;·&nbsp;
-[**Prism Inventory**](https://inventory.aaqibkhan.me) &nbsp;·&nbsp;
-[**Repositories**](https://github.com/aaqibkhan039?tab=repositories)
+[**Prism Inventory**](https://inventory.aaqibkhan.me)
 
 </div>
 
@@ -30,9 +27,9 @@ I work on utility-scale mechanical systems professionally and build software for
 Utility-scale hydropower
 
 **Focus**  
-Mechanical maintenance · Hydraulic systems · Rotating equipment · Reliability · Maintenance planning · Industrial safety
+Mechanical maintenance · Hydraulic systems · Rotating equipment · Reliability
 
-**Approach**  
+**Method**  
 Failure modes · Root-cause thinking · Maintainability · Operational risk
 
 </td>
@@ -40,18 +37,28 @@ Failure modes · Root-cause thinking · Maintainability · Operational risk
 
 ### Software
 
-**Products**  
-Operational tools · Personal systems · Web and mobile applications
+**Domain**  
+Operational and personal software systems
 
 **Focus**  
-System design · APIs · Data models · Automation · AI-assisted development
+Architecture · APIs · Data models · Automation · AI-assisted development
 
-**Approach**  
-Clear boundaries · Maintainable architecture · Practical workflows
+**Method**  
+Clear boundaries · Maintainable systems · Practical workflows
 
 </td>
 </tr>
 </table>
+
+---
+
+## Now
+
+| Track | Current focus |
+|---|---|
+| **Engineering** | Hydropower mechanical maintenance, reliability and technical leadership |
+| **Building** | Prism Inventory, PrismOS and aaqibkhan.me |
+| **Learning** | System architecture, AI-assisted development and MEP/HVAC |
 
 ---
 
@@ -64,9 +71,9 @@ Clear boundaries · Maintainable architecture · Practical workflows
 ### Prism Inventory
 <sub>ACTIVE · PRIVATE SOURCE</sub>
 
-Inventory and spare-parts management built around maintenance operations, including stock, receiving, requests, transfers, pricing and audit history.
+Inventory and spare-parts management designed around maintenance operations.
 
-**Domain:** Inventory · Asset management · Maintenance
+**Focus:** Stock · Receiving · Requests · Transfers · Audit history
 
 [**Open application →**](https://inventory.aaqibkhan.me)
 
@@ -76,7 +83,7 @@ Inventory and spare-parts management built around maintenance operations, includ
 ### PrismOS
 <sub>IN DEVELOPMENT · PRIVATE</sub>
 
-An owner-only personal operating system for finance, tasks, calendar, projects, people, assets and controlled external integrations.
+An owner-only operating system for finance, tasks, calendar, projects, people, assets and controlled integrations.
 
 **Stack:** Flutter · Riverpod · FastAPI · PostgreSQL
 
@@ -89,7 +96,7 @@ An owner-only personal operating system for finance, tasks, calendar, projects, 
 ### aaqibkhan.me
 <sub>IN DEVELOPMENT · PRIVATE SOURCE</sub>
 
-An editorial portfolio connecting hydropower engineering experience, technical case studies and software systems work.
+An editorial portfolio connecting hydropower engineering, technical case studies and software systems work.
 
 **Stack:** Next.js · Payload CMS · PostgreSQL · Docker
 
@@ -101,7 +108,7 @@ An editorial portfolio connecting hydropower engineering experience, technical c
 ### AK Store
 <sub>IN DEVELOPMENT · PRIVATE</sub>
 
-A Flutter e-commerce application covering authentication, catalog, accounts, media and commerce workflows.
+A Flutter e-commerce application for authentication, catalog, accounts, media and commerce workflows.
 
 **Stack:** Flutter · Dart · Firebase · Firestore · GetX
 
@@ -128,12 +135,9 @@ A Flutter e-commerce application covering authentication, catalog, accounts, med
   <img src="https://skillicons.dev/icons?i=flutter,dart,python,fastapi,postgres,firebase,nextjs,docker,linux,github,cloudflare&perline=11" alt="Flutter, Dart, Python, FastAPI, PostgreSQL, Firebase, Next.js, Docker, Linux, GitHub and Cloudflare" />
 </p>
 
-| Layer | Tools |
-|---|---|
-| Applications | Flutter · Dart · Next.js |
-| Backend | Python · FastAPI · REST APIs |
-| Data | PostgreSQL · SQLAlchemy · Alembic · Firebase · Firestore |
-| Delivery | Docker · Linux · GitHub · Cloudflare |
+**Applications:** Flutter · Dart · Next.js  
+**Backend & data:** Python · FastAPI · PostgreSQL · SQLAlchemy · Firebase  
+**Delivery:** Docker · Linux · GitHub · Cloudflare
 
 ---
 
