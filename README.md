@@ -11,14 +11,9 @@
 **Hydropower Engineering × Software Systems**  
 Deputy Director, Mechanical & Hydraulics
 
-</div>
+Mechanical engineering is my core domain. I build software to model, automate and improve practical systems.
 
-<div align="center">
-
-Mechanical engineering is my core domain. Software is another engineering medium I use to model, automate and improve real systems.
-
-[**Portfolio**](https://aaqibkhan.me) &nbsp;·&nbsp;
-[**Prism Inventory**](https://inventory.aaqibkhan.me)
+[**Portfolio**](https://aaqibkhan.me) · [**Prism Inventory**](https://inventory.aaqibkhan.me)
 
 </div>
 
@@ -26,96 +21,56 @@ Mechanical engineering is my core domain. Software is another engineering medium
 
 ## What I engineer
 
-I work in **utility-scale hydropower**, currently in mechanical and hydraulic systems leadership.
+I work in utility-scale hydropower, focusing on mechanical and hydraulic systems, maintenance and reliability.
 
-| Systems | Engineering practice |
+| Systems | Practice |
 |---|---|
 | Francis turbines | Preventive and corrective maintenance |
 | Generators & rotating equipment | Troubleshooting and failure analysis |
-| Hydraulic systems | Reliability and maintenance planning |
-| Mechanical auxiliaries | Safe execution and operational coordination |
-| Maintenance systems | Planning, traceability and continuous improvement |
-
-My engineering approach is grounded in **failure modes, root-cause thinking, maintainability, reliability and operational risk**.
+| Hydraulic systems & auxiliaries | Maintenance planning and safe execution |
+| Maintenance processes | Traceability and continuous improvement |
 
 ---
 
 ## What I build
 
-I design software around practical workflows rather than technology for its own sake.
-
-- **Maintenance & inventory systems** for materials, stock, requests, transfers and traceability
-- **Personal operating systems** for finance, tasks, calendar, projects, people and assets
-- **Web & mobile products** for commerce, operations and everyday use
-- **Automation & AI-assisted workflows** that reduce repetitive work and improve decision support
-
----
+I develop operational tools, personal systems and web/mobile products, using automation where it makes workflows more effective.
 
 ## Selected systems
-
-<table>
-<tr>
-<td width="50%" valign="top">
 
 ### Prism Inventory
 <sub>ACTIVE · PRIVATE SOURCE</sub>
 
-Inventory and spare-parts management designed around maintenance operations.
-
-**Focus:** Stock · Receiving · Requests · Transfers · Audit history
-
+Spare-parts and inventory management for maintenance operations, including stock, requests, transfers and audit history.  
 [**Open application →**](https://inventory.aaqibkhan.me)
-
-</td>
-<td width="50%" valign="top">
 
 ### PrismOS
 <sub>IN DEVELOPMENT · PRIVATE</sub>
 
-An owner-only operating system for finance, tasks, calendar, projects, people, assets and controlled integrations.
-
+A personal operating system connecting finance, tasks, calendar, projects, assets and integrations.  
 **Stack:** Flutter · Riverpod · FastAPI · PostgreSQL
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
 
 ### aaqibkhan.me
 <sub>IN DEVELOPMENT · PRIVATE SOURCE</sub>
 
-An editorial portfolio connecting hydropower engineering, technical case studies and software systems work.
-
-**Stack:** Next.js · Payload CMS · PostgreSQL · Docker
-
+A portfolio of hydropower engineering, technical case studies and software systems.  
+**Stack:** Next.js · Payload CMS · PostgreSQL · Docker  
 [**Open portfolio →**](https://aaqibkhan.me)
-
-</td>
-<td width="50%" valign="top">
 
 ### AK Store
 <sub>IN DEVELOPMENT · PRIVATE</sub>
 
-A Flutter e-commerce application for authentication, catalog, accounts, media and commerce workflows.
-
-**Stack:** Flutter · Dart · Firebase · Firestore · GetX
-
-</td>
-</tr>
-</table>
+A Flutter e-commerce application covering catalog, accounts, media and commerce workflows.  
+**Stack:** Flutter · Firebase · Firestore
 
 ---
 
 ## How I think
 
-**Physical systems**  
-Inspect → Diagnose → Plan → Execute → Verify → Improve
+**Physical:** Inspect → Diagnose → Plan → Execute → Verify → Improve  
+**Digital:** Problem → Model → Architect → Build → Validate → Iterate
 
-**Digital systems**  
-Problem → Model → Architect → Build → Validate → Iterate
-
-The medium changes, but the principles do not: **clear interfaces, traceability, maintainability, reliability and feedback from real operation**.
+> Build systems that can be understood, operated, maintained and improved.
 
 ---
 
@@ -129,29 +84,13 @@ The medium changes, but the principles do not: **clear interfaces, traceability,
 </p>
 
 **Applications:** Flutter · Dart · Next.js  
-**Backend & data:** Python · FastAPI · PostgreSQL · SQLAlchemy · Firebase  
+**Backend & data:** Python · FastAPI · PostgreSQL · Firebase  
 **Delivery:** Docker · Linux · GitHub · Cloudflare
 
 ---
 
 ## Now
 
-**Engineering** → hydropower mechanical maintenance, reliability and technical leadership  
-**Building** → Prism Inventory, PrismOS and aaqibkhan.me  
-**Learning** → system architecture, AI-assisted development and MEP/HVAC
-
----
-
-## Engineering philosophy
-
-> Build systems that can be understood, operated, maintained and improved.
-
-Whether the system is mechanical or digital, I value **clarity, traceability, maintainability and usefulness in real operation**.
-
-<div align="center">
-
-<br>
-
-[**aaqibkhan.me**](https://aaqibkhan.me)
-
-</div>
+**Engineering:** Hydropower maintenance, reliability and technical leadership  
+**Building:** Prism Inventory · PrismOS · aaqibkhan.me  
+**Learning:** System architecture · AI-assisted development · MEP/HVAC
