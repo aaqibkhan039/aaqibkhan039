@@ -1,8 +1,11 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-banner-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/profile-banner-light.svg">
-  <img alt="Aaqib Khan — Hydropower Engineering and Software Systems" src="./assets/profile-banner-light.svg">
-</picture>
+<div align="center">
+
+# Aaqib Khan
+
+**Hydropower Engineering × Software Systems**  
+Deputy Director, Mechanical & Hydraulics
+
+</div>
 
 <div align="center">
 
@@ -100,11 +103,11 @@ A Flutter e-commerce application for authentication, catalog, accounts, media an
 
 ## How I think
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/engineering-workflow-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/engineering-workflow-light.svg">
-  <img alt="Physical workflow: Inspect, Diagnose, Plan, Execute, Verify, Improve. Digital workflow: Problem, Model, Architect, Build, Validate, Iterate." src="./assets/engineering-workflow-light.svg">
-</picture>
+**Physical systems**  
+Inspect → Diagnose → Plan → Execute → Verify → Improve
+
+**Digital systems**  
+Problem → Model → Architect → Build → Validate → Iterate
 
 The medium changes, but the principles do not: **clear interfaces, traceability, maintainability, reliability and feedback from real operation**.
 
@@ -113,7 +116,10 @@ The medium changes, but the principles do not: **clear interfaces, traceability,
 ## Tooling
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,python,fastapi,postgres,firebase,nextjs,docker,linux,github,cloudflare&perline=11" alt="Flutter, Dart, Python, FastAPI, PostgreSQL, Firebase, Next.js, Docker, Linux, GitHub and Cloudflare" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,python,fastapi,postgres,firebase&perline=6" alt="Flutter, Dart, Python, FastAPI, PostgreSQL and Firebase" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,docker,linux,github,cloudflare&perline=5" alt="Next.js, Docker, Linux, GitHub and Cloudflare" />
 </p>
 
 **Applications:** Flutter · Dart · Next.js  
