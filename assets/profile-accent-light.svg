@@ -1,1 +1,24 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="132" viewBox="0 0 1000 132" role="img" aria-label="Abstract turbine and digital systems motif"><defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#2563eb"/><stop offset="1" stop-color="#0d9488"/></linearGradient></defs><rect width="1000" height="132" rx="16" fill="#f2f6fc" stroke="#cbd9e8"/><path d="M40 105 H960" stroke="#cbd9e8" stroke-width="1"/><g transform="translate(500 65)" stroke="url(#g)" fill="none"><circle r="39" stroke-width="3"/><circle r="17" stroke-width="6"/><path transform="rotate(0)" d="M0 -22 L0 -36" stroke-width="5" stroke-linecap="round"/><path transform="rotate(45)" d="M0 -22 L0 -36" stroke-width="5" stroke-linecap="round"/><path transform="rotate(90)" d="M0 -22 L0 -36" stroke-width="5" stroke-linecap="round"/><path transform="rotate(135)" d="M0 -22 L0 -36" stroke-width="5" stroke-linecap="round"/><path transform="rotate(180)" d="M0 -22 L0 -36" stroke-width="5" stroke-linecap="round"/><path transform="rotate(225)" d="M0 -22 L0 -36" stroke-width="5" stroke-linecap="round"/><path transform="rotate(270)" d="M0 -22 L0 -36" stroke-width="5" stroke-linecap="round"/><path transform="rotate(315)" d="M0 -22 L0 -36" stroke-width="5" stroke-linecap="round"/></g><g fill="none" stroke="#cbd9e8" stroke-width="2"><path d="M45 65 H370 L410 40 H455"/><path d="M545 92 H590 L630 65 H955"/><circle cx="370" cy="65" r="5" fill="#2563eb" stroke="none"/><circle cx="630" cy="65" r="5" fill="#0d9488" stroke="none"/></g><g fill="#2563eb"><circle cx="115" cy="65" r="5"/><circle cx="205" cy="65" r="5"/><circle cx="295" cy="65" r="5"/></g><g fill="#0d9488"><circle cx="705" cy="65" r="5"/><circle cx="795" cy="65" r="5"/><circle cx="885" cy="65" r="5"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="176" viewBox="0 0 1000 176" role="img" aria-label="Turbine and connected systems motif">
+  <defs><linearGradient id="motor" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#2563EB"/><stop offset="1" stop-color="#0D9488"/></linearGradient></defs>
+  <rect x=".75" y=".75" width="998.5" height="174.5" rx="17" fill="#F4F8FC" stroke="#D7E3EF" stroke-width="1.5"/>
+  <g opacity=".8"><path d="M22 18 H978" stroke="#E3ECF5" stroke-width="1"/><path d="M22 64.66666666666666 H978" stroke="#E3ECF5" stroke-width="1"/><path d="M22 111.33333333333333 H978" stroke="#E3ECF5" stroke-width="1"/><path d="M22 158 H978" stroke="#E3ECF5" stroke-width="1"/></g>
+  <g fill="none">
+    <path d="M38 88 H227" stroke="#2563EB" stroke-width="3" stroke-linecap="round"/>
+    <path d="M396 88 H950" stroke="#0D9488" stroke-width="3" stroke-linecap="round"/>
+    <path d="M54 88 H118 L156 36 H248" stroke="#94ACC0" stroke-width="2" fill="none"/>
+    <path d="M54 88 H139 L177 140 H248" stroke="#94ACC0" stroke-width="2" fill="none"/>
+    <path d="M396 88 H520 L573 40 H741" stroke="#94ACC0" stroke-width="2" fill="none"/>
+    <path d="M396 88 H570 L623 137 H795" stroke="#94ACC0" stroke-width="2" fill="none"/>
+    <path d="M758 40 H892 L927 72" stroke="#C5D6E5" stroke-width="2" fill="none"/>
+    <path d="M812 137 H907 L927 107" stroke="#C5D6E5" stroke-width="2" fill="none"/>
+    <g fill="#2563EB"><circle cx="68" cy="88" r="5"/><circle cx="148" cy="88" r="5"/><circle cx="235" cy="36" r="5"/></g>
+    <g fill="#0D9488"><circle cx="688" cy="88" r="5"/><circle cx="820" cy="88" r="5"/><circle cx="927" cy="88" r="6"/><circle cx="735" cy="40" r="5"/><circle cx="790" cy="137" r="5"/></g></g>
+  <g transform="translate(312 88)">
+    <circle r="70" fill="#FFFFFF" stroke="#D7E3EF" stroke-width="2"/>
+    <circle r="60" fill="none" stroke="url(#motor)" stroke-width="3.5"/>
+    <circle r="29" fill="none" stroke="#C5D6E5" stroke-width="2"/>
+    <path d="M0 -47 V-58" transform="rotate(0)" stroke="url(#motor)" stroke-width="5" stroke-linecap="round"/><path d="M0 -47 V-58" transform="rotate(45)" stroke="url(#motor)" stroke-width="5" stroke-linecap="round"/><path d="M0 -47 V-58" transform="rotate(90)" stroke="url(#motor)" stroke-width="5" stroke-linecap="round"/><path d="M0 -47 V-58" transform="rotate(135)" stroke="url(#motor)" stroke-width="5" stroke-linecap="round"/><path d="M0 -47 V-58" transform="rotate(180)" stroke="url(#motor)" stroke-width="5" stroke-linecap="round"/><path d="M0 -47 V-58" transform="rotate(225)" stroke="url(#motor)" stroke-width="5" stroke-linecap="round"/><path d="M0 -47 V-58" transform="rotate(270)" stroke="url(#motor)" stroke-width="5" stroke-linecap="round"/><path d="M0 -47 V-58" transform="rotate(315)" stroke="url(#motor)" stroke-width="5" stroke-linecap="round"/>
+    <circle r="19" fill="url(#motor)"/>
+    <circle r="7" fill="#FFFFFF"/>
+  </g>
+</svg>
