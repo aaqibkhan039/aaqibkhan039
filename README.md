@@ -21,6 +21,10 @@
   <a href="#explore--connect">Contact</a>
 </p>
 
+## Now
+
+Building **Prism Inventory** and **PrismOS**; writing up hydropower case studies at [aaqibkhan.me](https://aaqibkhan.me).
+
 ## Engineering
 
 At the **720 MW Karot Hydropower Project**, I work on Francis turbine-generator equipment, hydraulic auxiliaries and rotating machinery, with a focus on safe maintenance and long-term reliability.
