@@ -21,9 +21,9 @@
   <a href="#explore--connect">Contact</a>
 </p>
 
-## Now
+## Now (Nov 2026)
 
-Building **Prism Inventory** and **PrismOS**; writing up hydropower case studies at [aaqibkhan.me](https://aaqibkhan.me).
+Shipping **Prism Inventory**, piloting **eSafar**, and building **PrismOS** and **Zoon**; hydropower case studies are coming to [aaqibkhan.me](https://aaqibkhan.me).
 
 ## Engineering
 
@@ -40,20 +40,30 @@ Software built around specific operational and personal workflows. Source code i
 
 Helps maintenance teams track spare parts, stock movements, requests and transfers with an auditable history. **[Explore the application →](https://inventory.aaqibkhan.me)**
 
-### 02 · PrismOS
+### 02 · eSafar
+**Community ride board | Pilot**
+
+A mobile-first PWA where approved drivers publish available seats and passengers search by route and contact them directly. Built with React, TypeScript and Supabase.
+
+### 03 · PrismOS
 **Personal operations | In development**
 
 Brings finance, tasks, calendars, projects and assets into one connected workspace, reducing fragmented workflows.
 
-### 03 · aaqibkhan.me
+### 04 · Zoon
+**Android TV launcher | In development**
+
+A custom home screen for Android TV with app tiles, HDMI input switching and remote-friendly navigation. Built in Kotlin.
+
+### 05 · Pakistan by Rail
+**Railway documentary | Research**
+
+A route-first project to document Pakistan's passenger rail network from dated, verifiable sources.
+
+### 06 · aaqibkhan.me
 **Engineering portfolio | In development**
 
 Presents hydropower case studies, career experience and software projects in a single professional home. **[Visit the portfolio →](https://aaqibkhan.me)**
-
-### 04 · AK Store
-**Mobile commerce | In development**
-
-A Flutter-based storefront for product discovery, customer accounts and commerce workflows.
 
 ## How I work
 
